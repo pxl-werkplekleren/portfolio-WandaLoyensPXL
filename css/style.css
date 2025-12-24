@@ -1,0 +1,5 @@
+*{box-sizing:border-box;}
+
+
+
+tbody tr, table td, table {border: 1px solid black; border-collapse: collapse; }
