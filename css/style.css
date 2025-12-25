@@ -1,5 +1,12 @@
 *{box-sizing:border-box;}
 
 
-
-tbody tr, table td, table {border: 1px solid black; border-collapse: collapse; }
+table{width: 60%; margin: auto;}
+tbody tr, table td, table, table th, table tr {border: 1px solid black;
+    border-collapse: collapse;
+    text-align: left;
+    vertical-align: top;
+}
+table td, table th{padding: 0.5rem 0.5rem 0 0.5rem; }
+li{padding-bottom: 1rem;}
+table th{background-color: lightgray; }
