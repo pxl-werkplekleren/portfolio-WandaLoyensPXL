@@ -1,7 +1,7 @@
 *{box-sizing:border-box;}
 
 
-table{width: 60%; margin: auto;}
+.logboek{width: 60%; margin: auto; font-family:sans-serif; }
 tbody tr, table td, table, table th, table tr {border: 1px solid black;
     border-collapse: collapse;
     text-align: left;
@@ -9,4 +9,7 @@ tbody tr, table td, table, table th, table tr {border: 1px solid black;
 }
 table td, table th{padding: 0.5rem 0.5rem 0 0.5rem; }
 li{padding-bottom: 1rem;}
+.competentiesprogrammeur li{padding-bottom: 1rem; list-style-type: lower-alpha;}
 table th{background-color: lightgray; }
+
+.competentiesprogrammeur{width: 60%; margin: auto; font-family: sans-serif; }
