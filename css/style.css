@@ -9,7 +9,7 @@ tbody tr, table td, table, table th, table tr {border: 1px solid black;
 }
 table td, table th{padding: 0.5rem 0.5rem 0 0.5rem; }
 li{padding-bottom: 1rem;}
-.competentiesprogrammeur li{padding-bottom: 1rem; list-style-type: lower-alpha;}
+.competentiesprogrammeur li, .opdrachtenchronologisch li{padding-bottom: 1rem; list-style-type: lower-alpha;}
 table th{background-color: lightgray; }
 
 .competentiesprogrammeur, .opdrachtenchronologisch{width: 60%; margin: auto; font-family: sans-serif; }
