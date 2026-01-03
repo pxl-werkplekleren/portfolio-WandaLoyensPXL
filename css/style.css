@@ -12,4 +12,4 @@ li{padding-bottom: 1rem;}
 .competentiesprogrammeur li{padding-bottom: 1rem; list-style-type: lower-alpha;}
 table th{background-color: lightgray; }
 
-.competentiesprogrammeur{width: 60%; margin: auto; font-family: sans-serif; }
+.competentiesprogrammeur, .opdrachtenchronologisch{width: 60%; margin: auto; font-family: sans-serif; }
