@@ -1,6 +1,6 @@
-*{box-sizing:border-box;}
+*{ margin: 0; padding: 0; box-sizing:border-box;}
 
-
+article, section, h1, h2{margin-bottom:4rem; margin-left: 2rem; margin-right: 3rem;}
 
 .logboek{width: 60%; margin: auto; font-family:sans-serif; }
 
@@ -18,3 +18,8 @@ li{padding-bottom: 1rem;}
 table th{background-color: lightgray; }
 
 .competentiesprogrammeur, .opdrachtenchronologisch{width: 60%; margin: auto; font-family: sans-serif; }
+
+.kernkwadrant{display: flex; justify-content: center; gap:2rem; align-items: center; flex-wrap: wrap;
+width: 40%; margin: auto;}
+
+.kernkwadrant div{border: black solid 2px; width: 45%; padding-bottom: 1rem; height: auto;}
