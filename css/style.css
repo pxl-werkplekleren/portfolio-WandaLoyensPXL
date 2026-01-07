@@ -1,5 +1,5 @@
 *{ margin: 0; padding: 0; box-sizing:border-box;}
-
+Header{text-align:center; font-size: 2rem}
 article, section, h1, h2{margin-bottom:4rem; margin-left: 2rem; margin-right: 3rem;}
 
 .logboek{width: 60%; margin: auto; font-family:sans-serif; }
@@ -11,7 +11,7 @@ tbody tr, table td, table, table th, table tr {border: 1px solid black;
 
 table td, table th{padding: 0.5rem 0.5rem 0 0.5rem; }
 
-li{padding-bottom: 1rem;}
+li{padding-bottom: 1rem; margin-left: 1rem;}
 
 .competentiesprogrammeur li, .opdrachtenchronologisch li{padding-bottom: 1rem; list-style-type: lower-alpha;}
 
@@ -24,3 +24,6 @@ width: 40%; margin: auto auto 2rem auto; }
 
 .kernkwadrant div{border: black solid 2px; width: 45%; padding-bottom: 1rem; height: auto;}
 .kernkwadranten p{margin-bottom: 2rem;}
+
+.factor {margin:auto; text-align: center;}
+.factor img{width:50%;}
