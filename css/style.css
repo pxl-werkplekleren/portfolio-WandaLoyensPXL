@@ -20,6 +20,7 @@ table th{background-color: lightgray; }
 .competentiesprogrammeur, .opdrachtenchronologisch{width: 60%; margin: auto; font-family: sans-serif; }
 
 .kernkwadrant{display: flex; justify-content: center; gap:2rem; align-items: center; flex-wrap: wrap;
-width: 40%; margin: auto;}
+width: 40%; margin: auto auto 2rem auto; }
 
 .kernkwadrant div{border: black solid 2px; width: 45%; padding-bottom: 1rem; height: auto;}
+.kernkwadranten p{margin-bottom: 2rem;}
